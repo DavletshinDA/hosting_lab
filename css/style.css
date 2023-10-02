@@ -1,0 +1,49 @@
+.header {
+    display: inline-flex;
+    padding: 0px 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 777px;
+    height: 67px;
+}
+.logo {
+    width: 160px;
+    height: 33px;
+}
+.menu {
+    display: flex;
+    width: 363px;
+    height: 67px;
+    margin: 0px;
+    padding: 20px;
+    justify-content:space-between ;
+    align-items: flex-start;
+    gap: 40px;
+    list-style: none;
+}
+.menu-element{
+    font-family: DM Sans;
+    height: 27px;
+    color: #fff;
+}
+.menu-element-home{
+    width: 49px;
+    height: 27px;
+    color: #118DA8;
+}
+.Frame1 {
+}
+.sticks {
+}
+.main-pic {
+}
+.main-text {
+}
+.undelined {
+}
+.bold {
+}
+.online-services {
+}
+.article {
+}
